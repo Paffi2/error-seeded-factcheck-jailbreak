@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.key
+*api_key*
+
+# Code (not released yet)
+*.py
+__pycache__/
+
+# Autosave / temp
+*_autosave.csv
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
